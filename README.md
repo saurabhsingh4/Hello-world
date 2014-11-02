@@ -2,4 +2,4 @@ Hello-world
 ===========
 
 How are you?
-I am trying to laern R programming
+I am trying to learn R programming
